@@ -142,6 +142,16 @@ Each backbone workbook records the stakeholder-facing variable, canonical field 
 
 The [`docs/`](docs/) directory contains the stakeholder workshop report documenting the community-development process, technical discussions and decisions that informed Version 1.
 
+### Supporting documentation
+
+The [`docs/`](docs/) directory contains supporting documents describing the community\-development process and the evolution of the standard:
+
+- **Meningitis\_Technical\_Report\_v0.1.pdf** documents the inaugural meningitis metadata stakeholder workshop and the initial rationale, scope, public\-health use cases, tiered metadata model and early field\-level decisions that informed development of the standard.
+- **Meningitis\_Workshop\_Report.pdf** documents the subsequent multi\-day standards workshop in which the metadata dictionary, field tiering, controlled vocabularies, diagnostic variables, sequencing metadata and organism\-specific bioinformatics content were further developed and refined.
+
+These documents provide the development history and rationale for the standard. The current Version 1 metadata backbone and data\-collection template remain the authoritative resources for implementation.
+
+
 ### Software and automated template generation
 
 The initial public release focuses on the validated metadata standard, Excel collection template, annotated metadata backbone and supporting documentation. Template-generation software and the planned local browser-based data-capture toolkit are maintained separately while their validation and packaging are completed.
